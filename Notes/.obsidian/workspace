@@ -7,8 +7,12 @@
         "id": "286ff7120de28f15",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Git and GitHub.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git and GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Git and GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Git and GitHub.md"
+              }
             }
           }
         ]
@@ -121,5 +129,7 @@
     "collapsed": true
   },
   "active": "286ff7120de28f15",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Git and GitHub.md"
+  ]
 }
