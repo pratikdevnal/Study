@@ -1,1 +1,6 @@
-{}
+{
+  "promptDelete": false,
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "readableLineLength": false
+}
