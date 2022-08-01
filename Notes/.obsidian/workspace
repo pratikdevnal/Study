@@ -7,8 +7,12 @@
         "id": "fb0b69247dba8378",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Syllabus.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Syllabus.md"
+              }
             }
           }
         ]
@@ -120,10 +128,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1078403a0331320f",
+  "active": "fb0b69247dba8378",
   "lastOpenFiles": [
-    "To-Do-List/2022-07-15.md",
     "GitAndGitHub.md",
+    "Syllabus.md",
+    "To-Do-List/2022-07-15.md",
     "Git.md",
     "2022-07-14.md",
     "To-Do-List/To-Do-List July 2022.md",
