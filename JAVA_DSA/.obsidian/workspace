@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "455e25e23322411d",
+    "id": "6172231569b387be",
     "type": "split",
     "children": [
       {
-        "id": "fb0b69247dba8378",
+        "id": "5127a69f9ef97766",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Syllabus.md",
+            "file": "syllabus/Syllabus.md",
             "mode": "preview",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d2dea2e01fc5b2af",
+    "id": "bd58c7ada19e3616",
     "type": "split",
     "children": [
       {
-        "id": "e05e48428babd8b6",
+        "id": "668fd758cc3de04e",
         "type": "tabs",
         "children": [
           {
-            "id": "1078403a0331320f",
+            "id": "625b18d382bf397a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "70b895d076546ae0",
+            "id": "c92edf14d6cbd0ed",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "940c65dd9dab719c",
+            "id": "f524b8ad9239487f",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,44 +64,44 @@
     "width": 300
   },
   "right": {
-    "id": "2efad202ae13b1fa",
+    "id": "b80467637b92f124",
     "type": "split",
     "children": [
       {
-        "id": "18af1c87f85957a7",
+        "id": "a95b05d0dc0958cb",
         "type": "tabs",
         "children": [
           {
-            "id": "d869d775d8134134",
+            "id": "df85bbbdf7afc1c8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syllabus.md",
+                "file": "syllabus/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "489d2ab296046ded",
+            "id": "8e895463ee45c801",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syllabus.md",
+                "file": "syllabus/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a302a4641f62c19c",
+            "id": "5ef71ff2d375f509",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,12 +112,12 @@
             }
           },
           {
-            "id": "d04f085cbc357af6",
+            "id": "fba0b422ea46e607",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syllabus.md"
+                "file": "syllabus/Syllabus.md"
               }
             }
           }
@@ -128,15 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fb0b69247dba8378",
+  "active": "5127a69f9ef97766",
   "lastOpenFiles": [
-    "GitAndGitHub.md",
-    "Syllabus.md",
-    "To-Do-List/2022-07-15.md",
-    "Git.md",
-    "2022-07-14.md",
-    "To-Do-List/To-Do-List July 2022.md",
-    "2022-07-13.md",
-    "Git and GitHub.md"
+    "Kunal's Questions/05-arrays.md",
+    "Kunal's Questions/07-sorting.md",
+    "Kunal's Questions/06-searching.md",
+    "syllabus/Syllabus.md",
+    "Kunal's Questions/04-functions.md",
+    "Kunal's Questions/03-conditionals-loops.md",
+    "Kunal's Questions/02-first-java.md",
+    "Kunal's Questions/01-flow-of-program.md",
+    "Kunal's Questions/12-math.md",
+    "Kunal's Questions/16-stack-queue.md"
   ]
 }
