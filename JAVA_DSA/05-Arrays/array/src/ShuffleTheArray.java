@@ -18,20 +18,3 @@
 
 // Input: nums = [1,1,2,2], n = 2
 // Output: [1,2,1,2]
-
-class Solution {
-    public int[] shuffle(int[] nums, int n) {
-     int ans[]= new int[nums.length];
-        int index = 0;
-        
-        for(int i=0;i<nums.length/2;i++)
-        {
-            ans[index]=nums[i];
-            index++;
-            ans[index]=nums[n+i];
-            index++;
-            
-        }
-            return ans;
-    }
-}
