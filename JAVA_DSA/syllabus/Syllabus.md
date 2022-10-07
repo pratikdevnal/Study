@@ -13,8 +13,8 @@
 - [ ] <font color="#A16AE8"> Arrays</font>
     - [x] <font color="#B4FEE7"> Introduction</font>
     - [x] <font color="#B4FEE7"> Memory management</font>
-    - [x] <font color="#B4FEE7"> Input and Output</font>
-    - [x] <font color="#B4FEE7"> ArrayList Introduction</font>
+    - [ ] <font color="#B4FEE7"> Input and Output</font>
+    - [ ] <font color="#B4FEE7"> ArrayList Introduction</font>
     - [ ] <font color="#B4FEE7"> Sorting</font>
         - [ ] <font color="#B4FEE7"> Insertion Sort</font>
         - [ ] <font color="#B4FEE7"> Selection Sort</font>
@@ -22,7 +22,7 @@
         - [ ] <font color="#B4FEE7"> Count Sort</font>
         - [ ] <font color="#B4FEE7"> Radix Sort</font>
     - [ ] <font color="#B4FEE7"> Searching</font>
-        - [x] <font color="#B4FEE7"> Linear Search </font>
+        - [ ] <font color="#B4FEE7"> Linear Search </font>
         - [ ] <font color="#B4FEE7"> Binary Search</font>
         - [ ] <font color="#B4FEE7"> Modified Binary Search</font>
         - [ ] <font color="#B4FEE7"> (more later)</font>

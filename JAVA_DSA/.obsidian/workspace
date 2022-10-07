@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39619d940a2c2e70",
+        "id": "3c7fa270627422bb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Kunal's Questions/05-arrays.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunal's Questions/05-arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunal's Questions/05-arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kunal's Questions/05-arrays.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,7 +120,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "39619d940a2c2e70",
+  "active": "3c7fa270627422bb",
   "lastOpenFiles": [
     "syllabus/Syllabus.md",
     "Kunal's Questions/05-arrays.md",
