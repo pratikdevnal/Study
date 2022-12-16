@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "syllabus/Syllabus.md",
+                "file": "Kunal's Questions/16-stack-queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "syllabus/Syllabus.md",
+                "file": "Kunal's Questions/16-stack-queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "syllabus/Syllabus.md",
+                "file": "Kunal's Questions/16-stack-queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "syllabus/Syllabus.md"
+                "file": "Kunal's Questions/16-stack-queue.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "40fb43655ddf7525",
   "lastOpenFiles": [
-    "Kunal's Questions/16-stack-queue.md",
     "Kunal's Questions/15-linkedlist.md",
     "Kunal's Questions/14-oop.md",
     "Kunal's Questions/13-complexities.md",
     "Kunal's Questions/12-math.md",
     "Kunal's Questions/11-bitwise.md",
     "Kunal's Questions/10-recursion.md",
-    "Kunal's Questions/09-patterns.md",
     "Kunal's Questions/08-strings.md",
-    "Kunal's Questions/07-sorting.md"
+    "Kunal's Questions/09-patterns.md",
+    "Kunal's Questions/07-sorting.md",
+    "Kunal's Questions/06-searching.md"
   ]
 }
