@@ -4,12 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d5e6b2ac385b2cca",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
+        "id": "89d4e908df12f34b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40fb43655ddf7525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "syllabus/Syllabus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -27,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -73,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "syllabus/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "syllabus/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "syllabus/Syllabus.md"
+              }
             }
           }
         ]
@@ -120,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d5e6b2ac385b2cca",
+  "active": "40fb43655ddf7525",
   "lastOpenFiles": [
-    "syllabus/Syllabus.md",
-    "Kunal's Questions/05-arrays.md",
-    "Kunal's Questions/06-searching.md",
-    "Kunal's Questions/03-conditionals-loops.md",
-    "Kunal's Questions/02-first-java.md",
-    "Kunal's Questions/01-flow-of-program.md",
-    "Kunal's Questions/07-sorting.md",
-    "Kunal's Questions/04-functions.md",
+    "Kunal's Questions/16-stack-queue.md",
+    "Kunal's Questions/15-linkedlist.md",
+    "Kunal's Questions/14-oop.md",
+    "Kunal's Questions/13-complexities.md",
     "Kunal's Questions/12-math.md",
-    "Kunal's Questions/16-stack-queue.md"
+    "Kunal's Questions/11-bitwise.md",
+    "Kunal's Questions/10-recursion.md",
+    "Kunal's Questions/09-patterns.md",
+    "Kunal's Questions/08-strings.md",
+    "Kunal's Questions/07-sorting.md"
   ]
 }
