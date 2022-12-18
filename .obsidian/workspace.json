@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "6172231569b387be",
+    "id": "4749cab2ca23ba4f",
     "type": "split",
     "children": [
       {
-        "id": "dda198c3df62010b",
+        "id": "4bed5dae49914b94",
         "type": "tabs",
         "children": [
           {
-            "id": "4210b6a057877607",
+            "id": "325e8cab365e8a8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JAVA_DSA/Syllabus/Syllabus.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bd58c7ada19e3616",
+    "id": "bf2a85c377ee9253",
     "type": "split",
     "children": [
       {
-        "id": "668fd758cc3de04e",
+        "id": "4086f0ae7be74ee8",
         "type": "tabs",
         "children": [
           {
-            "id": "625b18d382bf397a",
+            "id": "8b402be712a7cd94",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "c92edf14d6cbd0ed",
+            "id": "c72f8d691aa93149",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "f524b8ad9239487f",
+            "id": "0bf230911c344072",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "b80467637b92f124",
+    "id": "57f70457b64791ba",
     "type": "split",
     "children": [
       {
-        "id": "a95b05d0dc0958cb",
+        "id": "c03d51768758b49d",
         "type": "tabs",
         "children": [
           {
-            "id": "df85bbbdf7afc1c8",
+            "id": "cce127af2551f286",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JAVA_DSA/Syllabus/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "8e895463ee45c801",
+            "id": "f9cc5e315fb2009f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JAVA_DSA/Syllabus/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5ef71ff2d375f509",
+            "id": "065617a6bafaf01f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "fba0b422ea46e607",
+            "id": "704df7ac2082c735",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JAVA_DSA/Syllabus/Syllabus.md"
+              }
             }
           }
         ]
@@ -128,17 +136,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "625b18d382bf397a",
+  "active": "325e8cab365e8a8d",
   "lastOpenFiles": [
-    "2022-12-16.md",
-    "Untitled.md",
-    "Kunal's Questions/16-stack-queue.md",
-    "Kunal's Questions/15-linkedlist.md",
-    "Kunal's Questions/14-oop.md",
-    "Kunal's Questions/13-complexities.md",
-    "Kunal's Questions/12-math.md",
-    "Kunal's Questions/11-bitwise.md",
-    "Kunal's Questions/10-recursion.md",
-    "Kunal's Questions/08-strings.md"
+    "JAVA_DSA/Questions/01-flow-of-program.md",
+    "FullStack Python/Road Map.md",
+    "FullStack Java/Road Map.md",
+    "JAVA_DSA/syllabus/Syllabus.md",
+    "README.md"
   ]
 }
