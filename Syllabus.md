@@ -1,3 +1,7 @@
+<<<<<<< HEAD:Syllabus.md
+=======
+# Java + DSA
+>>>>>>> dad4b6fc17ef49ad2ab4a0682c73bb3ea2a8a44e:README.md
 - [ ] <font color="#A16AE8"> Introduction to Git</font>
 - [ ] <font color="#A16AE8"> Introduction to Programming</font>
     - [ ] <font color="#B4FEE7"> Types of languages</font>
@@ -172,4 +176,5 @@
     - [ ] <font color="#B4FEE7"> Topological Sort</font>
     - [ ] <font color="#B4FEE7"> Bellman ford</font>
     - [ ] <font color="#B4FEE7"> A* pathfinding Algorithm</font>
+    
     
