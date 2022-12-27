@@ -1,8 +1,8 @@
 - [ ] <font color="#A16AE8"> Introduction to Git</font>
 - [ ] <font color="#A16AE8"> Introduction to Programming</font>
-    - [ ] <font color="#B4FEE7"> Types of languages</font>
-    - [ ] <font color="#B4FEE7"> Flowcharts & Pseudocode</font>
-    - [ ] <font color="#B4FEE7"> Flow of the program</font>
+    - [x] <font color="#B4FEE7"> Types of languages</font>
+    - [x] <font color="#B4FEE7"> Flowcharts & Pseudocode</font>
+    - [x] <font color="#B4FEE7"> Flow of the program</font>
 - [ ] <font color="#A16AE8"> Introduction to Java</font>
     - [ ] <font color="#B4FEE7"> Introduction</font>
     - [ ] <font color="#B4FEE7"> How it works </font>
