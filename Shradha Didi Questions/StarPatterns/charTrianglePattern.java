@@ -1,4 +1,4 @@
-package StarPatterns;
+
 
 public class charTrianglePattern {
 
