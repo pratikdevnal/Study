@@ -2,7 +2,7 @@
 
 # Java + DSA
 
-- [ ] <font color="#A16AE8"> Introduction to Git</font>
+- [x] <font color="#A16AE8"> Introduction to Git</font>
 - [x] <font color="#A16AE8"> Introduction to Programming</font>
     - [x] <font color="#B4FEE7"> Types of languages</font>
     - [x] <font color="#B4FEE7"> Flowcharts & Pseudocode</font>
