@@ -11,12 +11,8 @@
             "id": "325e8cab365e8a8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syllabus.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Syllabus.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "325e8cab365e8a8d",
+  "active": "8b402be712a7cd94",
   "lastOpenFiles": [
+    "Syllabus.md",
+    "sdad.md",
     "JAVA_DSA/Syllabus/Syllabus.md",
     "JAVA_DSA/Questions/01-flow-of-program.md",
     "FullStack Python/Road Map.md",
