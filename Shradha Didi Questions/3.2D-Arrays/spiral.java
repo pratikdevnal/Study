@@ -14,9 +14,7 @@ public class spiral {
             for (int j = startCol; j <= endCol; j++) {
                 System.out.print(matrix[startRow][j]);
                 System.out.print(",");
-                if (startRow == endRow) {
-                    break;
-                }
+                
             }
             // right
             for (int i = startRow + 1; i <= endRow; i++) {
@@ -28,14 +26,18 @@ public class spiral {
             for (int j = endCol - 1; j >= startCol + 1; j--) {
                 System.out.print(matrix[endRow][j]);
                 System.out.print(",");
-                if (startCol == endCol) {
+                if (startRow == endRow) {
                     break;
                 }
+                
             }
             // left
             for (int i = endRow; i >= startCol + 1; i--) {
                 System.out.print(matrix[i][startCol]);
                 System.out.print(",");
+                if (startCol == endCol) {
+                    break;
+                }
             }
             startRow++;
             startCol++;
