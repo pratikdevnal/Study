@@ -8,10 +8,7 @@ public class diagonalSum {
         System.out.println(sum(matrix));
     }
 
-    /**
-     * @param matrix
-     * @return
-     */
+   
     public static int sum(int matrix[][]) {
         int sum = 0;
         for (int i = 0; i < matrix.length; i++) {
