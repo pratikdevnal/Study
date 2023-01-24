@@ -1,3 +1,12 @@
+.newElement{
+  color: red;
+}
+button{
+  width: 100px;
+  height: 40px;
+  border-radius: 30%;
+  background-color: #61dafb;
+}
 .App {
   text-align: center;
 }
