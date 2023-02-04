@@ -18,6 +18,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d1b8255fa203c4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA Syllabus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57f786ed97ebc68e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -149,14 +169,14 @@
   "active": "fb396d12fa40b632",
   "lastOpenFiles": [
     "JavaMastery.md",
+    "DSA Syllabus.md",
+    "DSA by Shradha Didi & Aman Bhaiya.md",
+    "MERN full Stack.md",
     "Learn Backend In NodeJS From Scratch - Syllabus.md",
-    "Syllabus.md",
+    "README.md.md",
+    "JAVA_DSA/Questions/16-stack-queue.md",
     "JAVA_DSA/Syllabus/Syllabus.md",
-    "sdad.md",
-    "JAVA_DSA/Questions/01-flow-of-program.md",
-    "FullStack Python/Road Map.md",
-    "FullStack Java/Road Map.md",
-    "JAVA_DSA/syllabus/Syllabus.md",
-    "README.md"
+    "JAVA_DSA/Questions/15-linkedlist.md",
+    "JAVA_DSA/Questions/14-oop.md"
   ]
 }

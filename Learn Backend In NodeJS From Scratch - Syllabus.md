@@ -1,10 +1,12 @@
-### 1 Guest Lecture
-- [ ] Brewing Code With Siddharth (Jan 08, 2023)
-- [ ] Making Kickass Resume
+### <font color="#A16AE8"> 1 Guest Lecture</font>
+
+- [x] Brewing Code With Siddharth (Jan 08, 2023)
+- [x] Making Kickass Resume
 
 
-### 2 Introduction to Programming with JS [Recorded]
-- [ ] Introduction to programming with JS | Keywords | Variables
+### <font color="#A16AE8">  2 Introduction to Programming with JS [Recorded]</font>
+
+- [x] Introduction to programming with JS | Keywords | Variables
 - [ ] Coding Variables In JS
 - [ ] Showing Data To User Using console log
 - [ ] DataTypes In JS | Primitives and Non Primitives
@@ -21,7 +23,8 @@
 - [ ] Typeof operator | type of null special case
 
 
-### 3 Conditionals In JS - Intro to conditionals [Recorded]
+### <font color="#A16AE8">  3 Conditionals In JS - Intro to conditionals [Recorded]</font>
+
 - [ ] If Else
 - [ ] Else-If and Nested conditionals
 - [ ] Problem Solving - Odd Even
@@ -30,7 +33,8 @@
 - [ ] Problem Solving - Scalene Equilateral isosceles
 
 
-### 4 Loops In Javascript [Recorded]
+### <font color="#A16AE8">  4 Loops In Javascript [Recorded]</font>
+
 - [ ] How to repeat a process in programming | Introduction to Loops
 - [ ] While Loops
 - [ ] Sum Of Natural Numbers Using Loops
@@ -38,28 +42,31 @@
 - [ ] For Loops
 
 
-### 5 Functions [Recorded]
-- [ ] 1. DRY
-- [ ] 2. Introduction To Functions
-- [ ] 3. Functions continued
-- [ ] 4. Writing Functions In JS
-- [ ] 5. Print Even Numbers In A Range
-- [ ] 6. Debugging Functions
-- [ ] 7. Arguments and Parameters
-- [ ] 8. Exploring things
-- [ ] 9. Problem Solving - Is Prime (Less Optimised)
+### <font color="#A16AE8">  5 Functions [Recorded]</font>
 
-### 6 Pattern Problem Solving [Recorded]
-- [ ] 1. Problem Solving - Pattern Problem 1
-- [ ] 2. Problem Solving - Pattern 2
-- [ ] 3. Problem Solving - Pattern 3
-- [ ] 4. Problem Solving - Pattern 4
-- [ ] 5. Problem Solving - Pattern 5
-- [ ] 6. Problem Solving - Pattern 6
-- [ ] 7. Problem Solving - Pattern 7
+- [ ] DRY
+- [ ] Introduction To Functions
+- [ ] Functions continued
+- [ ] Writing Functions In JS
+- [ ] Print Even Numbers In A Range
+- [ ] Debugging Functions
+- [ ] Arguments and Parameters
+- [ ] Exploring things
+- [ ] Problem Solving - Is Prime (Less Optimised)
+
+### <font color="#A16AE8">  6 Pattern Problem Solving [Recorded]</font>
+
+- [ ] Problem Solving - Pattern Problem 1
+- [ ] Problem Solving - Pattern 2
+- [ ] Problem Solving - Pattern 3
+- [ ] Problem Solving - Pattern 4
+- [ ] Problem Solving - Pattern 5
+- [ ] Problem Solving - Pattern 6
+- [ ] Problem Solving - Pattern 7
 
 
-### 7 Miscellaneous Fundamental Topics - Unary Operators | Switch Case | Do while loop [Recorded]
+### <font color="#A16AE8">  7 Miscellaneous Fundamental Topics - Unary Operators | Switch Case | Do while loop [Recorded]</font>
+
 - [ ] Increment Operator
 - [ ] Unary Operators
 - [ ] More Unary Operators
@@ -74,7 +81,8 @@
 - [ ] Problem Solving - Pattern 8
 
 
-### 8 Problem Solving On Loops [Recorded]
+### <font color="#A16AE8">  8 Problem Solving On Loops [Recorded]</font>
+
 - [ ] Problem Solving - GCD
 - [ ] Euclid Algorithm and Proof of Euclid Algorithm
 - [ ] Problem Solving - Sum Of Digits
@@ -83,7 +91,8 @@
 - [ ] Dry run - Fibonacci
 
 
-### 9 Computer Networks [Recorded]
+### <font color="#A16AE8">  9 Computer Networks [Recorded]</font>
+
 - [ ] Introduction to Computer Networks
 - [ ] History Of Internet
 - [ ] Terminologies in Computer Networks
@@ -108,13 +117,15 @@
 - [ ] IPV6
 
 
-### 10 Introduction to Backend Development with JS [Live]
+### <font color="#A16AE8">  10 Introduction to Backend Development with JS [Live]</font>
+
 - [ ] Introduction to Backend Development
 - [ ] Introduction To TechStacks and JS
 - [ ] Introduction to JS 2 | Operators | Conditionals | Loops basic
 
 
-### 11 Advanced JS [Live]
+### <font color="#A16AE8">  11 Advanced JS [Live]</font>
+
 - [ ] Introduction to Coercion and Abstract Operation [New]
 - [ ] Coercion ToNumber ToString and ToBoolean
 - [ ] Abstract and Strict Equality , NaN and special types
@@ -124,76 +135,83 @@
 - [ ] Doubt Session
 
 
-### 12 Advanced JS 2 | Async JS [New]
+### <font color="#A16AE8">  12 Advanced JS 2 | Async JS [New]</font>
+
 - [ ] Callbacks | Inversion of control
 - [ ] How runtime helps in async nature of JS
 - [ ] Example of Async Behaviour with Callbacks
 
 
-### 13 Version control with GIT
+### <font color="#A16AE8">  13 Version control with GIT</font>
+
 - [ ] Git and Github | Introduction | Basic commands
 - [ ] Git Advanced | How internally git works ?
 - [ ] Branching and Open source Contributions
 
 
-### 14 Object Oriented Programming In JS
+### <font color="#A16AE8">  14 Object Oriented Programming In JS</font>
+
 - [ ] Classes And Objects | this keyword | new keyword | function constructors
 - [ ] Prototypes and Internal working of Prototypes
 - [ ] Prototype Based Inheritance
 
 
-### 15 How Internet works ?
+### <font color="#A16AE8">  15 How Internet works ?</font>
+
 - [ ] How Internet Works | What happens when you do www.google.com
 
 
-### 16 Introduction to Node
+### <font color="#A16AE8">  16 Introduction to Node</font>
+
 - [ ] Features Of Node JS
 - [ ] Module Pattern In NodeJS
 - [ ] Streams In Node
 - [ ] Project 0
 
 
-### 17 Introduction to Express
+### <font color="#A16AE8">  17 Introduction to Express</font>
+
 - [ ] Client Server Architecture
 - [ ] Setting Up HTTP Server | Introduction to ExpessJS
 - [ ] MVC Architecture | Implementation Varieties Of MVC | Middlewares in Express
 
 
-### 18 Introduction to API
+### <font color="#A16AE8">  18 Introduction to API</font>
+
 - [ ] REST API and Implementation | CRUD 
 
 
-### 19 Databases
+### <font color="#A16AE8">  19 Databases</font>
 
 
-### 20 ORM
+### <font color="#A16AE8">  20 ORM</font>
 
 
-### 21 REST and gRPC
+### <font color="#A16AE8">  21 REST and gRPC</font>
 
 
-### 22 Writing Restful API
+### <font color="#A16AE8">  22 Writing Restful API</font>
 
 
-### 23 Project 1
+### <font color="#A16AE8">  23 Project 1</font>
 
 
-### 24 NoSQL: MongoDB
+### <font color="#A16AE8">  24 NoSQL: MongoDB</font>
 
 
-### 25 Project 2
+### <font color="#A16AE8">  25 Project 2</font>
 
 
-### 26 Sockets
+### <font color="#A16AE8">  26 Sockets</font>
 
 
-### 27 Testing
+### <font color="#A16AE8">  27 Testing</font>
 
 
-### 28 Project 3
+### <font color="#A16AE8">  28 Project 3</font>
 
 
-### 29 Deployments
+### <font color="#A16AE8">  29 Deployments</font>
 
 
-### 30 Docker and Kubernetes
+### <font color="#A16AE8">  30 Docker and Kubernetes</font>

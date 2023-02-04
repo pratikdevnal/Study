@@ -1,0 +1,31 @@
+### JavaScript React NextJS NodeJS MongoDB SocketIO Full Stack
+
+- [x]  Introduction
+- [x]  Modern JavaScript
+- [x]  Learning Node
+- [ ]  Learning React
+- [ ]  Styling in React
+- [ ]  Routes, Middlewares and Controllers
+- [ ]  MongoDB Setup
+- [ ]  Routing and Pages
+- [ ]  Starting Social Network Project
+- [ ]  User Registration, Schemas and Bcrypt
+- [ ]  User Login, Context and Authorization
+- [ ]  Axios Configuration
+- [ ]  Forgot Password
+- [ ]  Creating Post
+- [ ]  Image Upload
+- [ ]  Rendering posts
+- [ ]  Post Update and Delete
+- [ ]  User Profile Update
+- [ ]  Users follow and unfollow
+- [ ]  Post Like and Unlike
+- [ ]  Post Comments
+- [ ]  Pagination
+- [ ]  Users Search and Public Profile
+- [ ]  Posts Server Side Rendering and SEO
+- [ ]  Socket.io and Realtime Posts
+- [ ]  Admin Access
+- [ ]  Wrap Up
+- [ ]  Deployment
+- [ ]  Bonus
