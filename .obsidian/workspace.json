@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA Syllabus.md",
+                "file": "JAVA_DSA/Questions/13-complexities.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Syllabus.md",
+                "file": "JAVA_DSA/Questions/13-complexities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Syllabus.md",
+                "file": "JAVA_DSA/Questions/13-complexities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Syllabus.md"
+                "file": "JAVA_DSA/Questions/13-complexities.md"
               }
             }
           }
@@ -168,15 +168,15 @@
   },
   "active": "fb396d12fa40b632",
   "lastOpenFiles": [
-    "JavaMastery.md",
-    "MERN full Stack.md",
-    "Learn Backend In NodeJS From Scratch - Syllabus.md",
-    "DSA Syllabus.md",
-    "DSA by Shradha Didi & Aman Bhaiya.md",
-    "README.md.md",
-    "JAVA_DSA/Questions/16-stack-queue.md",
-    "JAVA_DSA/Syllabus/Syllabus.md",
-    "JAVA_DSA/Questions/15-linkedlist.md",
-    "JAVA_DSA/Questions/14-oop.md"
+    "JAVA_DSA/Questions/14-oop.md",
+    "JAVA_DSA/Questions/13-complexities.md",
+    "JAVA_DSA/Questions/12-math.md",
+    "JAVA_DSA/Questions/10-recursion.md",
+    "JAVA_DSA/Questions/11-bitwise.md",
+    "JAVA_DSA/Questions/09-patterns.md",
+    "JAVA_DSA/Questions/06-searching.md",
+    "JAVA_DSA/Questions/02-first-java.md",
+    "JAVA_DSA/Questions/01-flow-of-program.md",
+    "JAVA_DSA/Questions/04-functions.md"
   ]
 }
