@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA_DSA/Questions/13-complexities.md",
+                "file": "DSA by Shradha Didi & Aman Bhaiya.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,21 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA Syllabus.md",
+                "file": "Backend Roadmap.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "57f786ed97ebc68e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA_DSA/Questions/13-complexities.md",
+                "file": "Backend Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA_DSA/Questions/13-complexities.md",
+                "file": "Backend Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA_DSA/Questions/13-complexities.md"
+                "file": "Backend Roadmap.md"
               }
             }
           }
@@ -166,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb396d12fa40b632",
+  "active": "8d1b8255fa203c4d",
   "lastOpenFiles": [
-    "JAVA_DSA/Questions/14-oop.md",
+    "MERN full Stack.md",
+    "Learn Backend In NodeJS From Scratch - Syllabus.md",
+    "JavaMastery.md",
+    "DSA Syllabus.md",
+    "Backend Roadmap.md",
+    "DSA by Shradha Didi & Aman Bhaiya.md",
     "JAVA_DSA/Questions/13-complexities.md",
+    "JAVA_DSA/Questions/14-oop.md",
     "JAVA_DSA/Questions/12-math.md",
-    "JAVA_DSA/Questions/10-recursion.md",
-    "JAVA_DSA/Questions/11-bitwise.md",
-    "JAVA_DSA/Questions/09-patterns.md",
-    "JAVA_DSA/Questions/06-searching.md",
-    "JAVA_DSA/Questions/02-first-java.md",
-    "JAVA_DSA/Questions/01-flow-of-program.md",
-    "JAVA_DSA/Questions/04-functions.md"
+    "JAVA_DSA/Questions/10-recursion.md"
   ]
 }
