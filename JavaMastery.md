@@ -96,29 +96,29 @@ Access Modifiers
  - [x] 2 - Public Access Modifier
  - [x] 3 - Private
  - [x] 4 - Default
- - [ ] 5 - Recap
- - [ ] 6 - When To Use Each Access Modifier
- - [ ] 7 - Static Keyword
- - [ ] Exercise
+ - [x] 5 - Recap
+ - [x] 6 - When To Use Each Access Modifier
+ - [x] 7 - Static Keyword
+ - [x] Exercise
 
 Methods
- - [ ] 1 - Methods
- - [ ] 2 - Method that add 2 numbers
- - [ ] 3 - Parameters and Arguments
- - [ ] 4 - Void methods
- - [ ] 5 - Naming Convention
- - [ ] 6 - Exercise
- - [ ] 7 - Exercise Solution
- - [ ] 8 - Textbook Exercises
+ - [x] 1 - Methods
+ - [x] 2 - Method that add 2 numbers
+ - [x] 3 - Parameters and Arguments
+ - [x] 4 - Void methods
+ - [x] 5 - Naming Convention
+ - [x] 6 - Exercise
+ - [x] 7 - Exercise Solution
+ - [x] 8 - Textbook Exercises
 
 Beyond The Basics
- - [ ] 1 - Understanding public static void main
- - [ ] 2 - Program Arguments
- - [ ] 3 - Type Inference with Var
- - [ ] 4 - Break Keyword and Loops
- - [ ] 5 - Continue
- - [ ] 6 - Return Keyword and Void Methods
- - [ ] 7 - Final Keyword
+ - [x] 1 - Understanding public static void main
+ - [x] 2 - Program Arguments
+ - [x] 3 - Type Inference with Var
+ - [x] 4 - Break Keyword and Loops
+ - [x] 5 - Continue
+ - [x] 6 - Return Keyword and Void Methods
+ - [x] 7 - Final Keyword
  - [ ] 8 - Enums
  - [ ] 9 - Enums Methods
  - [ ] 10 - Implicit and Explicit Type Casting
