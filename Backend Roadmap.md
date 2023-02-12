@@ -2,10 +2,10 @@
 
 ### Introduction
 - [x] What is Software Engineering ?
-- [ ] What is JS ? 
-- [ ] History Of JS 
-- [ ] Setting Up Development Environment 
-- [ ] Keywords
+- [x] What is JS ? 
+- [x] History Of JS 
+- [x] Setting Up Development Environment 
+- [x] Keywords
 	
 ### Data types
 - [ ] Storing Data In Applications 
