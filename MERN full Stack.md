@@ -3,7 +3,7 @@
 - [x]  Introduction
 - [x]  Modern JavaScript
 - [x]  Learning Node
-- [ ]  Learning React
+- [x]  Learning React
 - [ ]  Styling in React
 - [ ]  Routes, Middlewares and Controllers
 - [ ]  MongoDB Setup
