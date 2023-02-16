@@ -119,12 +119,12 @@ Beyond The Basics
  - [x] 5 - Continue
  - [x] 6 - Return Keyword and Void Methods
  - [x] 7 - Final Keyword
- - [ ] 8 - Enums
- - [ ] 9 - Enums Methods
- - [ ] 10 - Implicit and Explicit Type Casting
- - [ ] 11 - Global and Local Variables
- - [ ] 12 - Wrapper Classes
- - [ ] Exercise
+ - [x] 8 - Enums
+ - [x] 9 - Enums Methods
+ - [x] 10 - Implicit and Explicit Type Casting
+ - [x] 11 - Global and Local Variables
+ - [x] 12 - Wrapper Classes
+ - [x] Exercise
 
 Strings
  - [ ] 1 - Working With Strings
