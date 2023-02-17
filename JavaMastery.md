@@ -14,7 +14,7 @@ Introduction to Java
 
 Environment Setup
  - [x] 1 - IntelliJ IDEA
- - [x] 2 - jetbrains.com/idea
+ - [x] 2 - jetbrains.com / idea
  - [x] 3 - Jetbrains ToolBox
  - [x] 4 - Quick Word Before We Begin
 
