@@ -11,12 +11,8 @@
             "id": "fb396d12fa40b632",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaMastery.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaMastery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaMastery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavaMastery.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,12 +140,12 @@
   },
   "active": "fb396d12fa40b632",
   "lastOpenFiles": [
+    "DSA by Shradha Didi & Aman Bhaiya.md",
+    "JavaMastery.md",
     "MERN full Stack.md",
     "Learn Backend In NodeJS From Scratch - Syllabus.md",
-    "DSA by Shradha Didi & Aman Bhaiya.md",
     "Backend Roadmap.md",
     "DSA Syllabus.md",
-    "JavaMastery.md",
     "JAVA_DSA/Questions/13-complexities.md",
     "JAVA_DSA/Questions/14-oop.md",
     "JAVA_DSA/Questions/12-math.md",
