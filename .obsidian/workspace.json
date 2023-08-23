@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4bed5dae49914b94",
+        "id": "71f56fd6d96be8c1",
         "type": "tabs",
         "children": [
           {
-            "id": "fb396d12fa40b632",
+            "id": "2bf617083ff9fc49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Full Stack Web Development MERN.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "a1b4677778c0ca63",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Full Stack Web Development MERN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Full Stack Web Development MERN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Full Stack Web Development MERN.md"
+              }
             }
           }
         ]
@@ -138,11 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb396d12fa40b632",
+  "active": "2bf617083ff9fc49",
   "lastOpenFiles": [
+    "MERN full Stack.md",
+    "FullStack Java/Road Map.md",
+    "JAVA_DSA/Questions/01-flow-of-program.md",
+    "FullStack Python/Road Map.md",
+    "Full Stack Web Development MERN.md",
     "DSA by Shradha Didi & Aman Bhaiya.md",
     "JavaMastery.md",
-    "MERN full Stack.md",
     "Learn Backend In NodeJS From Scratch - Syllabus.md",
     "Backend Roadmap.md",
     "DSA Syllabus.md",
